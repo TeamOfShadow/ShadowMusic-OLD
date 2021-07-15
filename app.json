@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/2adf03bd079a0243aafac.png",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/deshadeeth-thisarana/ShadowMusic",
+  "repository": "https://github.com/TeamOfShadow/ShadowMusic",
   "stack": "heroku-20",
   "buildpacks": [
    {
