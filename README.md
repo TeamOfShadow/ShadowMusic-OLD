@@ -115,10 +115,11 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @Mr_Shadow_robot users
 
 #### Contribtors
-- [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Owner
+- [Deshadeeth Thisarana](https://github.com/deshadeeth-thisarana): Owner
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Prabhasha](https://github.com/Prabhasha-p): Dev
 - [Thilina](https://github.com/ThilinaWeerasekara2003): Dev
+- [Damantha](https://github.com/Damantha126): Dev
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev
 - [Rojserbest](http://github.com/rojserbest): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
