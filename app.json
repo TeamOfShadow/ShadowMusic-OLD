@@ -37,7 +37,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "ShadowSupport_Official"
+      "value": "ShadowBotSupport"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
