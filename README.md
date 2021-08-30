@@ -108,6 +108,17 @@ If you donlt like to play in linked channel:
 ### Credits
 Don't edit this part
 
+- [Technical-Hunter](https://github.com/Technical-Hunter)
+- [Rojserbest](http://github.com/rojserbest)
+- [Wrench](https://github.com/EverythingSuckz/)
+- [Bemro](https://github.com/bemroofficial)
+- [QueenArzoo](https://github.com/QueenArzoo)
+- [lucifeermorningstar](https://github.com/lucifeermorningstar)
+- [Hamker Cat](https://github.com/thehamkercat/)
+- [Anjana-Ma](https://github.com/Anjana-Ma)
+- [ImJanindu](https://github.com/ImJanindu)
+- [MARSHALX](https://github.com/MarshalX): TgCalls
+
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
@@ -116,19 +127,11 @@ Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic
 
 #### Contribtors
 - [Deshadeeth Thisarana](https://github.com/deshadeeth-thisarana): Owner
-- [InukaASiTH](https://github.com/InukaAsith): Dev
+- [Inuka Asith](https://github.com/InukaAsith): Owner
 - [Prabhasha](https://github.com/Prabhasha-p): Dev
 - [Thilina](https://github.com/ThilinaWeerasekara2003): Dev
-- [Damantha](https://github.com/Damantha126): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Rojserbest](http://github.com/rojserbest): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [MARSHALX](https://github.com/MarshalX): TgCalls
+- [Damantha Jasinghe](https://github.com/Damantha126): Dev
+- [GD Hiruna](https://github.com/hirunaofficial): Dev
+
 
 ### [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
