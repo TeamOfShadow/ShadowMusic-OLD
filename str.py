@@ -4,6 +4,7 @@ from pyrogram import Client
 
 print("Enter your app information from my.telegram.org/apps below.")
 
+
 async def main():
     async with Client(
         ":memory:", api_id=int(input("API ID:")), api_hash=input("API HASH:")

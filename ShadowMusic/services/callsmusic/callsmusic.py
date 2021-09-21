@@ -21,7 +21,6 @@ from pytgcalls import GroupCall
 from ShadowMusic.services.callsmusic import client
 from ShadowMusic.services.queues import queues
 
-
 instances: Dict[int, GroupCall] = {}
 active_chats: Dict[int, Dict[str, bool]] = {}
 

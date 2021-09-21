@@ -18,10 +18,7 @@
 import requests
 from pyrogram import Client as Bot
 
-from ShadowMusic.config import API_HASH
-from ShadowMusic.config import API_ID
-from ShadowMusic.config import BG_IMAGE
-from ShadowMusic.config import BOT_TOKEN
+from ShadowMusic.config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
 from ShadowMusic.services.callsmusic import run
 
 response = requests.get(BG_IMAGE)

@@ -1,9 +1,8 @@
-from pyrogram import Client
-from pyrogram import filters
+from pyrogram import Client, filters
 from pyrogram.types import Message
 
-from ShadowMusic.services.callsmusic.callsmusic import remove
 from ShadowMusic.helpers.channelmusic import get_chat_id
+from ShadowMusic.services.callsmusic.callsmusic import remove
 
 
 @Client.on_message(filters.voice_chat_ended)
