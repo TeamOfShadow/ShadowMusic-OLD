@@ -733,7 +733,7 @@ async def play(_, message: Message):
         try:
             await callsmusic.set_stream(chat_id, file_path)
         except:
-            message.reply("Group Call is not connected or I can't join it")
+        await message.reply("Group Call is not connected or I can't join it")
             return
         await message.reply_photo(
             photo="final.png",
