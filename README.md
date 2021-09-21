@@ -132,6 +132,7 @@ Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic
 - [Thilina](https://github.com/ThilinaWeerasekara2003): Dev
 - [Damantha Jasinghe](https://github.com/Damantha126): Dev
 - [GD Hiruna](https://github.com/hirunaofficial): Dev
+- [Uvindu Bro](https://github.com/UvinduBro): Dev
 
 
 ### [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
